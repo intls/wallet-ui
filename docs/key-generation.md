@@ -146,4 +146,4 @@ To combat this, the recovery kit should explictly detail the correct URL to reco
 
 If the user does not have access to their Ethereum Private Key, their recovery kit is usless. The UI can encourage them to periodical prove they have access to this key to mitigate against this. Should they fail that test, a new recovery kit can be generated.
 
-So long as an attacker does not have access to the `Old Ethereum Private Key` this should be secure. If their is a chance an attacker has access to the `Old Ethereum Private Key` and the old recovery kit can’t be guranteed to be destroyed, security concious users should migrate to a new account.
+So long as an attacker does not have access to the `Old Ethereum Private Key` this should be secure. If their is a chance an attacker has access to the `Old Ethereum Private Key` and the old recovery kit can’t be guaranteed to be destroyed, security concious users should migrate to a new account.
